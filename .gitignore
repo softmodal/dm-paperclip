@@ -2,6 +2,7 @@
 log
 pkg
 tmp
-Gemfile.lock
 public
 coverage
+.yardoc/
+.bundle
